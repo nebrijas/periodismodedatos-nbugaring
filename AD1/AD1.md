@@ -1,4 +1,7 @@
-# Actividad dirigida 1
+# Actividad dirigida 1  
+![](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/AD1/imagen_grafico_ad1.PNG)
+
+
 El medio gallego [quincemil](https://www.elespanol.com/quincemil/articulos/actualidad/coronavirus-galicia-2-083-contagios-nuevos-y-suben-a-19-589-los-casos-activos) ofrece a sus lectores una pieza que resume de una forma visual el aumento de los casos activos de coronavirus en la Comunidad Autónoma de Galicia. Este recurso es complementario al reportaje *“Coronavirus Galicia: 2.083 contagios nuevos y suben a 19.589 los casos activos”*. En el reportaje se explica de forma resumida a través de datos cómo ha sido ese ascenso, las posibles causas y consecuencias, las tendencias… por lo que al tratarse de un contenido basado en datos, incluir un recurso visual a los lectores me parece fundamental.  
 
 
