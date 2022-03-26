@@ -66,3 +66,6 @@ if (req.status_code == 200):
         else:
             print('Qué lástima, y...')    
 ```
+
+
+ENLACE SCRAPING: https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/AD2/scraping.ipynb
