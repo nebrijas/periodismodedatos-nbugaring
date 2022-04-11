@@ -68,4 +68,4 @@ if (req.status_code == 200):
 ```
 
 
-ENLACE SCRAPING: https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/AD2/scraping.ipynb
+ENLACE SCRAPING: https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/scraping.ipynb
