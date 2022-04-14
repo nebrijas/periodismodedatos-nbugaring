@@ -29,5 +29,10 @@ for index, fila in df_tipo.iterrows():
                             popup=fila['type'])
     mapa.add_child(marcador)
 mapa
-
+coord = [40.535564,-3.6475137]
+mapa = folium.Map(location=coord, tiles='Stamen Terrain')
+marcador = folium.Marker (coord, icon=folium.Icon(color="green"))
+mapa =mapa.add_child(marcador)
+mapa
+mapa.save('./tipo.html')
 ```
