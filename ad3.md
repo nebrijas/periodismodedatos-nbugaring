@@ -65,6 +65,6 @@ fig.savefig("vs.png")
 
 ## ENLACES ad3
 
-[DATOS CSV](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-covid19-pandas-plot.csv)
-[DATOS HTML](https://nebrijas.github.io/periodismodedatos-nbugaring/api-covid19-pandas-plot.html)
-[ENLACE JUPITER](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-covid19-pandas-plot.html.ipynb)
+[DATOS CSV](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-covid19-pandas-plot.csv)   
+[DATOS HTML](https://nebrijas.github.io/periodismodedatos-nbugaring/api-covid19-pandas-plot.html)   
+[ENLACE JUPITER](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-covid19-pandas-plot.html.ipynb)   
