@@ -1,1 +1,11 @@
-# Actividad dirigida 3 
+# Actividad dirigida 3
+
+
+
+
+## CÓDIGO BRUTO
+
+
+```
+
+```
