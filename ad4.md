@@ -36,3 +36,8 @@ mapa =mapa.add_child(marcador)
 mapa
 mapa.save('./tipo.html')
 ```
+
+## ENLACES ad4
+
+[HTML](https://nebrijas.github.io/periodismodedatos-nbugaring/tipo.html)   
+[ENLACE JUPITER](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-pandas-folium-raw.ipynb)   
