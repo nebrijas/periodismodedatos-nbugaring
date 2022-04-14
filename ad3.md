@@ -1,6 +1,18 @@
 # Actividad dirigida 3
 
+En la AD3 vamos a aprender a usar bases de datos y procesar gráficas. Para ello, leeremos de la URL: https://api.covid19api.com/countries los datos de los países España, Colombia y Argentina. Para leer estos datos usaremos la función de Panda que se llama ´read_json´. Estos datos se guardarán en diferente variables llamadas df_es, df_co y df_arg, siendo del tipo DataFrame.
 
+
+Una vez tengamos estos datos, primero mostraremos en una gráfica los datos de España, para ello usaremos la función ´set_index´ para coger solo las columnas que nos interesan (date y cases) y a continuación con la función ´plot´ mostraremos dicha gráfica.
+
+
+Para el siguiente apartado mostraremos en una gráfica los datos de covid en España y en Colombia correspondientes al mismo periodo de tiempo. Para ello, usaremos la función ´set_index´ para guardar los datos que nos interesan, tanto de España como de Colombia. A continuación, juntaremos las tablas de los datos anteriores obteniendo como resultado una tabla en la cual la primera columna corresponde a la fecha, la segunda a los datos de Covid19 en España y la tercera en Colombia. Una vez tengamos esto, con la función ´plot´ mostraremos la gráfica donde se observan los datos de ambos países.
+
+El resultado lo podemos ver en la siguiente imagen:   
+![Grafico covid](https://nebrijas.github.io/periodismodedatos-nbugaring/api-covid19-pandas-plot.png)
+
+
+Por último, haremos el proceso anterior pero incorporando los datos de un país más, en este caso Argentina. El resultado de esto es un plot donde se muestra los casos de Covid19 en los tres países.
 
 
 ## CÓDIGO BRUTO
@@ -49,3 +61,10 @@ fig = grafico.get_figure()
 fig.savefig("vs.png")
 
 ```
+
+
+## ENLACES ad3
+
+[DATOS CSV](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-covid19-pandas-plot.csv)
+[DATOS HTML](https://nebrijas.github.io/periodismodedatos-nbugaring/api-covid19-pandas-plot.html)
+[ENLACE JUPITER](https://github.com/nebrijas/periodismodedatos-nbugaring/blob/main/api-covid19-pandas-plot.html.ipynb)
