@@ -1,4 +1,4 @@
-# ACTIVIDAD DIRIGIDA 2
+# Actividad dirigida 2
 
 
 ## COMENTARIO PROCESO
